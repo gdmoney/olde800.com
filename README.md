@@ -5,4 +5,4 @@
 - S3
 - CloudFront
 - Certificate Manager
-- CodePipeline - for GitHub integration - changes made to the `index.html` file GitHub automatically get pushed to the `index.html` file in S3
+- CodePipeline - changes made to the `index.html` file GitHub automatically get pushed to the `index.html` file in S3
