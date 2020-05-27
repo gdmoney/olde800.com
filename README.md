@@ -11,9 +11,8 @@
 
 ## Deployment Steps:
 ### 1. S3
-   - create buckets
-   - enable static website hosting
-   
+   - create buckets and enable static website hosting
+
 ### 2. Cert Manager
    - create a wildcard cert
 
