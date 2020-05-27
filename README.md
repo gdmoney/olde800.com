@@ -5,4 +5,4 @@
 - S3
 - CloudFront
 - Certificate Manager
-- CodePipeline - changes made to the `index.html` file on GitHub automatically get pushed to the `index.html` file in S3
+- CodePipeline - this repository is automatically synced to the `www.olde800.com` S3 bucket
