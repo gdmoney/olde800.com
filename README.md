@@ -5,4 +5,4 @@
 - S3
 - CloudFront
 - Certificate Manager
-- CodePipeline - this repository is automatically synced to the `www.olde800.com` S3 bucket
+- CodePipeline - this repository is automatically synced to the **`www.olde800.com`** S3 bucket
