@@ -11,16 +11,16 @@
 
 ## Deployment Steps:
 ### 1. S3
-   - create buckets and enable static website hosting
+- create a bucket and enable static website hosting
 
 ### 2. Cert Manager
-   - request a public cert
+- request a public cert
 
 ### 3. CloudFront
-   - create a distribution
+- create a distribution
 
 ### 4. Route 53
-   - create A records
+- create A records
 
 ### 5. CodePipeline
-   - link the GitHub repo and the S3 bucket
+- link the GitHub repo and the S3 bucket
