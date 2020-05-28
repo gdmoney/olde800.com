@@ -14,7 +14,7 @@
    - create buckets and enable static website hosting
 
 ### 2. Cert Manager
-   - create a wildcard cert
+   - request a public cert
 
 ### 3. CloudFront
    - create a distribution
