@@ -11,7 +11,7 @@
 
 ## Deployment Steps:
 ### 1. S3
-- create a bucket, upload files, and enable static website hosting
+- create buckets, upload files, and enable static website hosting
 
 ### 2. Cert Manager
 - request a public cert
