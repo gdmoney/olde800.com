@@ -23,4 +23,4 @@
 - create A records
 
 ### 5. CodePipeline
-- link the GitHub repo and the S3 bucket
+- sync this GitHub repo and the S3 bucket
