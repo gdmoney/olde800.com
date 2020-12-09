@@ -5,7 +5,7 @@
 - S3
 - CloudFront
 - Certificate Manager
-- CodePipeline - automatically syncs this repository to the **`www.olde800.com`** S3 bucket
+- CodePipeline
 
 *****
 
@@ -23,5 +23,5 @@
 - create a hosted zone and records
 
 #### 5. CodePipeline
-- sync this GitHub repo and the S3 bucket
+- sync this GitHub repo and the **`www.olde800.com`** S3 bucket
 - in the `us-west-1` region
