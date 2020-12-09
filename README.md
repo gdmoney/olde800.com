@@ -24,3 +24,4 @@
 
 ### 5. CodePipeline
 - sync this GitHub repo and the S3 bucket
+- in the `us-west-1` region
