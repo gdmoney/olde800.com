@@ -23,5 +23,5 @@
 - create a hosted zone and records
 
 #### 5. CodePipeline
-- sync this GitHub repo and the **`www.olde800.com`** S3 bucket
+- sync this repo and the **`www.olde800.com`** S3 bucket
 - in the `us-west-1` region
