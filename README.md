@@ -5,7 +5,7 @@
 - S3
 - CloudFront
 - Certificate Manager
-- CodePipeline
+- CodePipeline (us-west-1)
 
 *****
 
