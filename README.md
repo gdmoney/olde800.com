@@ -1,6 +1,6 @@
 # [olde800.com](https://olde800.com)
 
-### hobby project website hosted on AWS using the following services:
+### Hobby project website hosted on AWS using the following services:
 - Route53
 - S3
 - CloudFront
