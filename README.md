@@ -12,7 +12,7 @@
 ### Deployment Steps:
 #### 1. S3
 - create buckets and upload files
-- enable static website hosting on the www.olde800.com bucket
+- enable static website hosting on the `www.olde800.com` bucket
 
 #### 2. Cert Manager
 - request a public cert
@@ -25,8 +25,8 @@
 
 #### 4. Route 53
 - create a hosted zone and records
-- www.olde800.com > cloudfront distro
-- olde800.com > www.olde800.com
+- `www.olde800.com` > `cloudfront distro`
+- `olde800.com` > `www.olde800.com`
 
 #### 5. CodePipeline
 - sync this repo and the `www.olde800.com` S3 bucket
