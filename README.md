@@ -20,6 +20,7 @@
 
 #### 3. CloudFront
 - create a distribution
+- associate a cert
 - configure OAI (Origin Access Identity) to restrict S3 access
 
 #### 4. Route 53
