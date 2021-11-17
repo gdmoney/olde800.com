@@ -15,6 +15,7 @@
 
 #### 2. Cert Manager
 - request a public cert
+- in the `us-east-1` region
 
 #### 3. CloudFront
 - create a distribution
