@@ -29,5 +29,5 @@
 - olde800.com > www.olde800.com
 
 #### 5. CodePipeline
-- sync this repo and the **`www.olde800.com`** S3 bucket
+- sync this repo and the `www.olde800.com` S3 bucket
 - in the `us-west-1` region
