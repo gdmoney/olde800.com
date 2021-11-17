@@ -15,12 +15,12 @@
 - enable static website hosting on the `www.olde800.com` bucket
 
 #### 2. Cert Manager
-- request a public cert
+- request a public cert for `www.olde800.com` and `olde800.com` domains
 - in the `us-east-1` region
 
 #### 3. CloudFront
 - create a distribution
-- associate a cert
+- associate the cert created above
 - configure OAI (Origin Access Identity) to restrict S3 access
 
 #### 4. Route 53
