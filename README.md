@@ -16,7 +16,7 @@
 
 #### 2. Cert Manager
 - request a public cert for `www.olde800.com` and `olde800.com` domains
-- in the `us-east-1` region
+- must be in the `us-east-1` region
 
 #### 3. CloudFront
 - create a distribution
@@ -30,4 +30,4 @@
 
 #### 5. CodePipeline
 - sync this repo and the `www.olde800.com` S3 bucket
-- in the `us-west-1` region
+- currently in the `us-west-1` region
