@@ -11,7 +11,7 @@
 
 ### Deployment Steps:
 #### 1. S3
-- create buckets and upload files
+- create `olde800.com` and `www.olde800.com` buckets
 - enable static website hosting on the `www.olde800.com` bucket
 
 #### 2. Cert Manager
