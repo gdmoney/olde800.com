@@ -32,5 +32,6 @@
 - A: `olde800.com` > Alias: `www.olde800.com`
 
 #### 5. CodePipeline
-- sync this repo and the `www.olde800.com` S3 bucket
+- create a new pipeline to sync this repo to the S3 bucket
+- Source: `GitHub/gdmoney/olde800.com/master`, Deploy: `S3/www.olde800.com`
 - currently in the `us-west-1` region
