@@ -20,9 +20,9 @@
 - must be in the `us-east-1` region
 
 #### 3. CloudFront
-- create a distribution
+- create a distribution with `www.olde800.com.s3.amazonaws.com` as the origin
 - associate the cert created above
-- configure OAI (Origin Access Identity) to restrict S3 access
+- configure OAI (Origin Access Identity) to restrict S3 access to only CloudFront
 
 #### 4. Route 53
 - create a hosted zone and records
