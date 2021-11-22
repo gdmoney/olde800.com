@@ -33,5 +33,5 @@
 
 #### 5. CodePipeline
 - create a new pipeline to sync this repo to the S3 bucket
-- Source: `GitHub/gdmoney/olde800.com/master`, Deploy: `S3/www.olde800.com`
+- Source: `GitHub/gdmoney/olde800.com/master` > Deploy: `S3/www.olde800.com`
 - currently in the `us-west-1` region
