@@ -28,8 +28,8 @@
 
 #### 4. Route 53
 - create a hosted zone and records
-- `www.olde800.com` > `cloudfront distro`
-- `olde800.com` > `www.olde800.com`
+- A: `www.olde800.com` > Alias: `cloudfront distro`
+- A: `olde800.com` > Alias: `www.olde800.com`
 
 #### 5. CodePipeline
 - sync this repo and the `www.olde800.com` S3 bucket
