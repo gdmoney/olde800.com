@@ -25,6 +25,7 @@
 - associate the cert created above
 - configure OAI (Origin Access Identity) to restrict S3 access to only CloudFront
 - add `/error.html` as the response page path to the HTTP 403 error code
+- *CloudFront caches S3 content for 24 hrs; use Invalidations to force update`index.html`*
 
 #### 4. Route 53
 - create a hosted zone and records
