@@ -5,7 +5,7 @@
 - S3
 - Certificate Manager
 - CloudFront
-- Route53
+- Route 53
 - CodePipeline
 
 *****
